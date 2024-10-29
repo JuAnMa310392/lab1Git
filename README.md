@@ -14,3 +14,4 @@ Paso 3
 -Creación del Pull request en GitHub -Se agregan reviewers -Se aprueba y se procede hacer merge
 
 
+![image](https://github.com/user-attachments/assets/7a5cbbbf-01fe-4a13-a1c8-5989c90dfb98)
