@@ -15,3 +15,5 @@ Paso 3
 
 
 ![image](https://github.com/user-attachments/assets/7a5cbbbf-01fe-4a13-a1c8-5989c90dfb98)
+
+![image](https://github.com/user-attachments/assets/b3e76aaa-b2c6-4a18-a5dc-382bfa55b1e8)
